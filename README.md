@@ -1,5 +1,5 @@
 # angular-project-1
-(dynamic table) using angular matrial
+(login and logout using angular matrial and json server)
 
 to run this app :(cmd)
   1:npm run server
